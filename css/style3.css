@@ -2,6 +2,7 @@ body {
 	background: #cc0019;
 	color: #fceeb8;
 	font-family: 'BioRhyme', serif;
+	overflow: hidden;
 }
 
 a {
@@ -127,8 +128,3 @@ a:focus {
 		bottom: 30vh;
 	}
 }
-
-.img {
-	max-width: 30%;
-	height: auto;
-  }
